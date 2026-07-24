@@ -10,13 +10,3 @@ Markdown acts as the universal "programming language" and instruction layer for 
 
 
 
-
-
-
-- [x] bread
-
-- [ ] milk
-
-- [x] eggs
-
-- [ ] teabags
