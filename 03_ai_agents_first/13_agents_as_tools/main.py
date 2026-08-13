@@ -6,7 +6,6 @@ from agents import Agent, Runner, OpenAIChatCompletionsModel, AsyncOpenAI, set_t
 # 🌿 Load environment variables
 load_dotenv()
 set_tracing_disabled(disabled=True)
-
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY", "")
 
 # 🔐 Setup Gemini client
