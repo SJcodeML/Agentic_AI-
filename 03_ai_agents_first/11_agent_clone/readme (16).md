@@ -182,7 +182,7 @@ base_agent = Agent(
     model_settings=ModelSettings(temperature=0.7)
 )
 
-# Create multiple specialized variants
+# Create multiple specialized variantsd
 agents = {
     "Creative": base_agent.clone(
         name="CreativeWriter",
