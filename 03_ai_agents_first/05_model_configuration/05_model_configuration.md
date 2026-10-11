@@ -7,6 +7,14 @@ Agents SDK is setup to use OpenAI as default providers. When using other provide
 
 We will always your Agent Level Configuration so each agent can use the LLM best fit for it.
 
+How to install in the terminal 
+
+pip install google-genai
+
+pip install openai agents
+
+
+
 ### 1. AGENT LEVEL
 
 ```python
@@ -98,8 +106,3 @@ print(result.final_output)
 ```
 
 
-
-
-pip install google-genai
-
-pip install openai agents
