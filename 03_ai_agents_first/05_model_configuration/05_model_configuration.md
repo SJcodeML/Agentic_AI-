@@ -96,3 +96,10 @@ result = Runner.run_sync(agent, "Hello")
 
 print(result.final_output)
 ```
+
+
+
+
+pip install google-genai
+
+pip install openai agents
